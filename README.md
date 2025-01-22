@@ -1,14 +1,12 @@
 # Allisya-Maisarah
 <h1 align="center">Hi 👋, I'm ALLISYA MAISARAH BINTI SURAIZAL</h1>
-<h3 align="center">A passionate frontend developer from UTM</h3>
-
-- 🔭 I’m currently studying in **Universiti Teknologi Malaysia**
+- 🔭 I’m currently studying at **Universiti Teknologi Malaysia**
 
 - 🌱 I’m currently learning **bioinformatics**
 
-- 🤝 I’m looking for help with **my coding**
+- 🤝 I’m looking for help with **coding**
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/graduate.utm.my/allisyamaisarah/home](https://sites.google.com/graduate.utm.my/allisyamaisarah/home)
+- 👨‍💻 All of my projects are available at [<a href="https://sites.google.com/graduate.utm.my/allisyamaisarah/home" target="_blank">Portfolio</a>](<a href="https://sites.google.com/graduate.utm.my/allisyamaisarah/home" target="_blank">Portfolio</a>)
 
 - 📫 How to reach me **allisyamaisarah05@gmail.com**
 
