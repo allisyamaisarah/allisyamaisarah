@@ -6,7 +6,7 @@
 
 - 🤝 I’m looking for help with **coding**
 
-- 👨‍💻 All of my projects are available at <a href=https://sites.google.com/graduate.utm.my/allisyamaisarah/home" target="_blank">Portfolio</a>
+- 👨‍💻 All of my projects are available at https://sites.google.com/graduate.utm.my/allisyamaisarah/home
 
 - 📫 How to reach me **allisyamaisarah05@gmail.com**
 
